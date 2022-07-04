@@ -173,8 +173,6 @@ on this step you need to learning End-to-End automation with Ansible and Terrafo
 - ### Prometheous + Grafana (Free)
   - Books/Docs/Code:
     - [Prometheus: Up & Running: Infrastructure and Application Performance Monitoring](https://www.amazon.com/Prometheus-Infrastructure-Application-Performance-Monitoring/dp/1492034142/ref=sr_1_1) (English Book)
-  - Video
-    - [Prometheus Tutorial | Monitoring with Prometheus And Grafana | Prometheus Grafana Tutorial | Edureka](https://www.youtube.com/watch?v=7gW5pSM6dlU)
 - ### Telegraf + InfluxDB + Grafana (Free)
 - ### Datadog (Paid)
 - ### ELK Stack (Free)
